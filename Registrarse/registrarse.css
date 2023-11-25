@@ -1,0 +1,28 @@
+header{
+    & nav ol{
+        margin: 10px 0;
+    }
+    & nav li{
+        color: #FAA6FF;
+    }
+    
+    & nav li a{
+        color: white;
+        text-decoration: none;
+    }
+    & nav li a:hover{
+        color: #FAA6FF;
+    }
+}
+
+body{
+    height: 100vh;
+    background-color: #F7DCF9;
+}
+.sectionRegistrarse{
+    margin: 100px 250px;
+    & form{
+        background-color: #7353BA;
+        margin: 100px;
+    }
+}
