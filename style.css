@@ -23,7 +23,7 @@ header{
     color:#FAA6FF;
 }
 
-/*----- ESTILOS DE LA SECTION 1 -----  */
+/*----- ESTILOS DE LA SECTION HERO -----  */
 
 .sectionHero{
     height: 580px;
@@ -45,7 +45,7 @@ header{
     border: 1px solid #2F195F;
 }
 
-/*----- ESTILOS DE LA SECTION 2 ----- */
+/*----- ESTILOS DE LA SECTION CURSOS ----- */
 
 .sectionCursos{
     margin: 0 auto;
@@ -89,11 +89,11 @@ header{
     box-shadow: 1px 1px 15px #2F195F;
 }
 
-/* ----- ESTILOS DE LA SECTION 3 -----*/
+/* ----- ESTILOS DE LA SECTION  SOBRE NOSOTROS -----*/
 
 .sectionSobreNosotros{
     height: 700px;
-    background: linear-gradient(45deg,rgba(116, 84, 186, 0.75),rgba(116, 84, 186, 0.75)),url(/img/img-fondo-snosotros.jpg) no-repeat center center fixed;
+    background: linear-gradient(45deg,rgba(116, 84, 186, 0.75),rgba(116, 84, 186, 0.75)),url(img/img-fondo-snosotros.jpg) no-repeat center center fixed;
     background-size: cover;
 
     display: flex;
@@ -117,7 +117,7 @@ header{
     }
 }
 
-/* ----- ESTILOS DE LA SECTION 4 ----- */
+/* ----- ESTILOS DE LA SECTION CONTACTO ----- */
 
 .sectionContacto{
     background-color: #2F195F;
