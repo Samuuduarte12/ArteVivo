@@ -166,12 +166,9 @@ footer{
     }
     & #footer-a:hover{
         color: #FAA6FF;
-    }
-    
+    }   
 }
-@media(max-width:480px){
-    main{
-        padding:5px;
-        margin: 10px 20px;
-    }
+
+@media (max-width:380px) {
+
 }
